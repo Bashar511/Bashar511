@@ -14,12 +14,13 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Django, Git/GitHub,
 ### [Translation System](https://github.com/Bashar511/Translation-System)
 Web-based English-Arabic translator using Hugging Face's mBART-50 and Django.
 
-### [Students Performance Analysis]()
+### [Students Performance Analysis](https://www.kaggle.com/code/basharalloush/students-data-analysis-performance-prediction)
 Data analysis and ML models to predict and improve student outcomes.
 
 ##  Contact Me
 Email: bashar.alloushf1@gmail.com  
 LinkedIn: [bashar-alloush](https://www.linkedin.com/in/bashar-alloush/).
+Kaggle: [bashar-alloush](https://www.kaggle.com/basharalloush).
 Whatsapp: +963-988322709
 <!--
 **Bashar511/Bashar511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
